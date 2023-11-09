@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-module sumador_medio(
+module src(
     input A,
     input B,
     output S,
